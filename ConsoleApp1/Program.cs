@@ -65,7 +65,7 @@
     Console.WriteLine("Лучший вариант: " + weights[1, 0]);
     Console.WriteLine("Завершить работу? +/-");
     string ans = Console.ReadLine();
-    if (ans == "+")
+    if (ans == "-")
     {
         Console.Clear();
     }
